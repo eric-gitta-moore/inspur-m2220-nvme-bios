@@ -1,0 +1,1 @@
+AFUWINx64 1.rom /P /B /N /X
